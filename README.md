@@ -2,6 +2,8 @@
 In this brief short and fun example, we showcase the power of javascript to generate animations, making use of the DOM's manipulation, using loops and functions,
 with screen edge detection for bouncing effect, and the use of multiple rotating images to simulate the movement of Pacmen's mouth.
 
+A plausible use of this technique could be applied to interactive chats, to send flying emojis on screen as user reactions.
+
 # Demo
 https://thomasgutiez.github.io/pacmen/index.html
 
