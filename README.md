@@ -6,7 +6,7 @@ with screen edge detection for bouncing effect, and the use of multiple rotating
 https://thomasgutiez.github.io/pacmen/index.html
 
 # Web of the project
-https://thomasgutierrez.webflow.io/pacmen
+https://thomasgutiez.github.io/pacmen
 
 
 MIT License
